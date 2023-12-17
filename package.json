@@ -15,7 +15,7 @@
         "themes": [
             {
                 "label": "Cinnamoroll",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs-dark",
                 "path": "./themes/cinna-roll-theme-dark.json"
             }
         ]

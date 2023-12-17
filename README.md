@@ -2,7 +2,7 @@
 
 ### A cutesy dark theme for all the sanrio fans
 
-### Or generally cute poeple living in darknessss uuuu
+### Or generally cute people living in darknessss uuuu
 
 ---
 
