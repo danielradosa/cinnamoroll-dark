@@ -10,11 +10,11 @@
     "categories": [
         "Themes"
     ],
-    "version": "1.0.2",
+    "version": "1.1.0",
     "contributes": {
         "themes": [
             {
-                "label": "Cinnamoroll",
+                "label": "Cinnamoroll Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cinna-roll-theme-dark.json"
             }
