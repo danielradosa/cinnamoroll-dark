@@ -1845,7 +1845,7 @@
     }
   ],
   "colors": {
-    "foreground": "#000000",
+    "foreground": "#ffffff",
     "focusBorder": "#ffa1a1",
     "selection.background": "#cfcfcf",
     "scrollbar.shadow": "#ffffff00",
@@ -2077,7 +2077,7 @@
     "peekViewTitle.background": "#000000",
     "peekViewTitleDescription.foreground": "#ffffffe6",
     "peekViewTitleLabel.foreground": "#868686",
-    "icon.foreground": "#000000",
+    "icon.foreground": "#ffffff",
     "checkbox.background": "#ff7b7b",
     "checkbox.foreground": "#ffffff",
     "checkbox.border": "#00000000",
@@ -2096,7 +2096,7 @@
     "editorGroup.emptyBackground": "#191919",
     "panelSection.border": "#ffffff00",
     "statusBarItem.activeBackground": "#FFFFFF25",
-    "settings.headerForeground": "#000000",
+    "settings.headerForeground": "#ffffff",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#ffffff",
